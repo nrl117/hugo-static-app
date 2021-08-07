@@ -5,5 +5,3 @@ draft: true
 ---
 
 Hello Michelle, have fun!
-
-{{ < form-contact action="">}}
